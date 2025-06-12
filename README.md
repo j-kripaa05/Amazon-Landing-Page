@@ -1,1 +1,2 @@
 # Amazon-Landing-Page
+This project is a static clone of the Amazon landing page built using HTML and CSS. It replicates the core structure and visual design of Amazon's homepage, including the navigation bar, product categories, search bar, banner section, and featured product listings. The layout is fully responsive using modern CSS techniques such as Flexbox and Grid. This clone is designed for educational purposes to practice front-end development skills and understand real-world web design patterns.
